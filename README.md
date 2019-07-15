@@ -14,3 +14,5 @@
 As a user,
 So that I can know which websites I've saved,
 I can view a list of my bookmarks.
+
+![Domain Model](http://url/to/img.png)
