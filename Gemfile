@@ -8,3 +8,5 @@ gem "capybara", "~> 3.25"
 gem "rubocop", "~> 0.72.0"
 
 gem "simplecov", "~> 0.17.0"
+
+gem "pg", "~> 1.1"
