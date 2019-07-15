@@ -15,4 +15,4 @@ As a user,
 So that I can know which websites I've saved,
 I can view a list of my bookmarks.
 
-![Domain Model](http://url/to/img.png)
+![Domain Model](https://github.com/Timdavidcole/bookmark-manager/blob/master/images/domain_model_1.png)
